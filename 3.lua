@@ -1,0 +1,4 @@
+--local f = io.popen("redis-cli dbsize") -- runs command
+--local l = f:read("*a") -- read output of command
+--log(l)
+--f:close()
