@@ -1,2 +1,2 @@
 -- testchange
--- another conflict
+-- another conflict -- conflict change
